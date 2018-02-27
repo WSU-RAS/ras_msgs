@@ -1,4 +1,5 @@
 #goal definition
+uint32 type
 uint32 task_number
 int32 error_step
 int32 error_object
