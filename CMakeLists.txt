@@ -70,6 +70,7 @@ add_action_files(
   FILES
   Goto.action
   DoError.action
+  TabletGoto.action
 )
 
 ## Generate added messages and services with any dependencies listed here
