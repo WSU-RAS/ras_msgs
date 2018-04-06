@@ -62,6 +62,7 @@ add_service_files(
   TaskController.srv
   TestTaskController.srv
   Poweroff.srv
+  Pause.srv
 )
 
 ## Generate actions in the 'action' folder
