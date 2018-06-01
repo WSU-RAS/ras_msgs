@@ -54,6 +54,7 @@ add_message_files(
   FILES
   TaskId.msg
   TaskStatus.msg
+  Goto_xy_msg.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -63,6 +64,7 @@ add_service_files(
   TestTaskController.srv
   Poweroff.srv
   Pause.srv
+  Goto_xy.srv
 )
 
 ## Generate actions in the 'action' folder
