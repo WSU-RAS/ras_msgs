@@ -65,6 +65,7 @@ add_service_files(
   Poweroff.srv
   Pause.srv
   Goto_xy.srv
+  Check_point.srv
 )
 
 ## Generate actions in the 'action' folder
