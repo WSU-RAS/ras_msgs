@@ -55,6 +55,9 @@ add_message_files(
   TaskId.msg
   TaskStatus.msg
   Goto_xy_msg.msg
+  Localize_msg.msg
+  Point_check_msg.msg
+  Rotate_msg.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -66,6 +69,9 @@ add_service_files(
   Pause.srv
   Goto_xy.srv
   Check_point.srv
+  Localize.srv
+  Goto_human.srv
+  Rotate.srv
 )
 
 ## Generate actions in the 'action' folder
