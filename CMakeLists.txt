@@ -58,6 +58,7 @@ add_message_files(
   Localize_msg.msg
   Point_check_msg.msg
   Rotate_msg.msg
+  SensorPub.msg
 )
 
 ## Generate services in the 'srv' folder
