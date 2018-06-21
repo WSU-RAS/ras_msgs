@@ -59,6 +59,7 @@ add_message_files(
   Point_check_msg.msg
   Rotate_msg.msg
   SensorPub.msg
+  Lurker_base_msg.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -73,6 +74,7 @@ add_service_files(
   Localize.srv
   Goto_human.srv
   Rotate.srv
+  Lurker_base_srv.srv
 )
 
 ## Generate actions in the 'action' folder
