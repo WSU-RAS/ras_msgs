@@ -70,6 +70,7 @@ add_service_files(
   Poweroff.srv
   Pause.srv
   Goto_xy.srv
+  Goto_xywz.srv
   Check_point.srv
   Localize.srv
   Goto_human.srv
